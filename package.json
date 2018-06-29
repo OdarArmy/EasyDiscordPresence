@@ -1,0 +1,24 @@
+{
+  "name": "easydiscordpresence",
+  "version": "1.0.0",
+  "description": "Easy Discord Rich Rpesence for everyone!",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OdarArmy/EasyDiscordPresence"
+  },
+  "keywords": [
+    "Odar",
+    "Discord",
+    "discord-rpc",
+    "rpc"
+  ],
+  "author": "Odar",
+  "license": "ISC",
+  "dependencies": {
+    "discord-rpc": "^3.0.0-beta.12",
+    "discord.js": "^11.3.2",
+    "fs": "0.0.1-security",
+    "npm": "^6.1.0"
+  }
+}
