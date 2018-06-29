@@ -1,3 +1,5 @@
+![License](	https://img.shields.io/github/license/mashape/apistatus.svg) [![Odar](https://img.shields.io/badge/Made%20by%3A-Odar-brightgreen.svg)](https://odar.xyz)
+
 # EasyDiscordPresence
 
 ----
