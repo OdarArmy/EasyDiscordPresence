@@ -32,31 +32,32 @@ EasyDiscordPresence it's tool that allows you to have custom discord game status
 
 ----
 ##Settings
-### time:
+
+***Time:***
 
 *true* - Displays the time elapsed
 
 *false* - Doesn't display the time elasped
 
-###Details:
+***Details:***
 
 Details is what do you want be shown for the 2nd text **(For me it's *"My new app"*)**
 
 ![ss1](http://media.odar.xyz/E3048fL0D4.png)
 
-###State:
+***State:***
 
 State is what do you want to display below the details **(For me it's *"I love it!"*)**
 
 ![ss2](http://media.odar.xyz/P9S89g38v1.png)
 
-###Images:
+***Images:***
 
 >LargeImage it's the bigger image and also called **image1** beacuse that is how i called it while [uploading](http://media.odar.xyz/665895D6G8.png)
 
 >SmallImage it's the smal image and also called **image2** beacuse that is how i called it while [uploading](http://media.odar.xyz/l5m34T5162.png)
 
-###Texts
+***Texts:***
 
 >LargeText it's the text that pop ups when you hover the big image **(For me it's *"Hell yeah"*)**
 
