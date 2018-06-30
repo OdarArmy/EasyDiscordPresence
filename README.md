@@ -8,6 +8,10 @@
 EasyDiscordPresence it's tool that allows you to have custom discord game status!
 
 ----
+## Requirements
+* [Node](https://nodejs.org/en/)
+
+----
 ## How to use it
 1. Download it from [here](https://github.com/OdarArmy/EasyDiscordPresence/archive/master.zip)
 2. Extract it into a new folder
