@@ -1,5 +1,7 @@
 ![License](	https://img.shields.io/github/license/mashape/apistatus.svg) [![Odar](https://img.shields.io/badge/Made%20by%3A-Odar-brightgreen.svg)](https://odar.xyz) [![Donate](https://img.shields.io/badge/Like%20it-Donate-brightgreen.svg)](https://odar.xyz/donate) [![Server](https://discordapp.com/api/guilds/298762167388471296/widget.png?)](https://discord.gg/zvvasbc)
 
+[Website](https://odararmy.js.org/projects/easydiscordrpc)
+
 # EasyDiscordPresence
 
 ----
