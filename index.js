@@ -1,3 +1,4 @@
+require('dotenv').config();
 const Discord = require("discord-rpc")
 const settings = require("./settings.json")
 
@@ -12,6 +13,7 @@ const time = settings.Time
 const dtls = settings.Details
 const ste = settings.State 
 
+if(process.env.DEBUG){
 console.log(`ID: ${ID}`)
 console.log(`Details: ${dtls}`)
 console.log(`State: ${ste}`)
@@ -20,7 +22,7 @@ console.log(`Large Image: ${LI}`)
 console.log(`Small Text: ${ST}`)
 console.log(`Small Image: ${SI}`)
 console.log(`Time: ${time}`)
-
+}
 Discord.register(ID)
 
 const rpc = new Discord.Client({transport: "ipc"});
